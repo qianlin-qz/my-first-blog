@@ -25,7 +25,7 @@ SECRET_KEY = '4$##r(c87rzmwa34y6=2fsw6tlt)^(ate&7&w6o)dvg+(*bq8q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [qlin.pythonanywhere.com]
 
 
 # Application definition
